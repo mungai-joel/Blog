@@ -29,7 +29,7 @@ As a user of the website you will be able to:
 
 ### Installing
 
-*** To view the app.Visit -> [Blog]()
+*** To view the app.Visit -> [Blog](https://myblogman.herokuapp.com/)
 * Step 1:
 Clone this repo: git clone https://github.com/mungai-joel/Blog.git.
 * Step 2:
